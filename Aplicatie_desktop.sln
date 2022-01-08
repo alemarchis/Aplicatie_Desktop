@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicatie_desktop", "Aplica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaFitnessModel", "..\SalaFitnessModel\SalaFitnessModel.csproj", "{F8BB0ADE-0098-4C92-BB07-7A3120302945}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicatie_mobile", "..\Aplicatie_mobile\Aplicatie_mobile\Aplicatie_mobile.csproj", "{8D232463-A55C-4ADE-AA9D-BF5C6F8AA111}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicatie_Web", "..\Aplicatie_Web\Aplicatie_Web\Aplicatie_Web.csproj", "{18340A1B-B3F8-4806-A208-508F59FB8A07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F8BB0ADE-0098-4C92-BB07-7A3120302945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8BB0ADE-0098-4C92-BB07-7A3120302945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8BB0ADE-0098-4C92-BB07-7A3120302945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D232463-A55C-4ADE-AA9D-BF5C6F8AA111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D232463-A55C-4ADE-AA9D-BF5C6F8AA111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D232463-A55C-4ADE-AA9D-BF5C6F8AA111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D232463-A55C-4ADE-AA9D-BF5C6F8AA111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18340A1B-B3F8-4806-A208-508F59FB8A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18340A1B-B3F8-4806-A208-508F59FB8A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18340A1B-B3F8-4806-A208-508F59FB8A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18340A1B-B3F8-4806-A208-508F59FB8A07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
